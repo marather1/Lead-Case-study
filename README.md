@@ -1,4 +1,4 @@
-# Lead-Case-study
+# Lead-Scoring-Case-study
 
 ## Objective
 
